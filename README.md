@@ -120,9 +120,12 @@ Circuito a armar
 
 *  Para esta simulacion vamos a usar el simulador dcaclab  , ya en el simulador hacemos lo siguiente :
 
+
+*  Configuramos el generador de funciones   para que proporcione una señal de 20 Vpp a
+una frecuencia de 2.5 Khz.
+
 *  Armamos el circuito propuesto en el simulador dcaclab y  conectamos al simulador de osciloscopio
 
-*  Configuramos el osciloscopio , para que  arroje una señal de 20  Vpp a una frecuencia de   2,5 Khz
 
 *  Conectamos las puntas de  nuestro osciloscopio al resistor del circuito propuesto  y observamos las señales senoidales que produce
 
