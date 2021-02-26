@@ -135,7 +135,6 @@ Asi quedaria la simulacion armada :
 
 ![](https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Imagenes/im%208.png)
 
-
 6.  Manua de usuario
 
 https://dcaclab.com/en/features
