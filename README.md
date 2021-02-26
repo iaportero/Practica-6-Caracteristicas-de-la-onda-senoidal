@@ -178,7 +178,7 @@ https://youtu.be/-BaTMAc27UA
 Link de las preguntas:
 
 
-https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Codigo%20Fuente/guia6.1.pdf
+https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Codigo%20Fuente/guia6.1-convertido.pdf
 
 
 
