@@ -172,7 +172,11 @@ Características - Simulador de circuitos en línea | DCACLab | DCACLab. (n.d.).
 
 Link del video : 
 
-Link de Preguntas :
+https://youtu.be/-BaTMAc27UA
+
+
+Link de las preguntas:
+
 
 https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Codigo%20Fuente/guia6.1.pdf
 
