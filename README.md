@@ -17,6 +17,12 @@ Determinar de manera experimenal las señales senoidales a traves de  un simulad
 
 Marco teorico
 
+Representacion Onda Senoidal
+
+![](https://ekuatio.com/wp-content/uploads/onda-senoidal-ca-43.png)
+
+
+
 EL OSCILOSCOPIO
 
 El osciloscopio es básicamente un dispositivo de visualización que traza, en su pantalla, una
