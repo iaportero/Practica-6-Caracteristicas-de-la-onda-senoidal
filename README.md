@@ -169,9 +169,13 @@ Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado: 25-0
 Características - Simulador de circuitos en línea | DCACLab | DCACLab. (n.d.). Retrieved February 25, 2021, from https://dcaclab.com/en/features
 
 
+10. Anexos 
 
+Link del video : 
 
+Link de Preguntas :
 
+https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Codigo%20Fuente/guia6.1.pdf
 
 
 
