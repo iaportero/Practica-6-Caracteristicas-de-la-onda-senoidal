@@ -21,6 +21,9 @@ Representacion Onda Senoidal
 
 ![](https://ekuatio.com/wp-content/uploads/onda-senoidal-ca-43.png)
 
+Representacion Matematica
+
+![](https://image.slidesharecdn.com/ondasmecanicas1-101029150337-phpapp01/95/ondas-mecanicas1-9-638.jpg?cb=1422666500)
 
 
 EL OSCILOSCOPIO
