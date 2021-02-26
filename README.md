@@ -120,9 +120,16 @@ Circuito a armar
 
 *  Para esta simulacion vamos a usar el simulador dcaclab  , ya en el simulador hacemos lo siguiente :
 
+*  Armamos el circuito propuesto en el simulador dcaclab y  conectamos al simulador de osciloscopio
+
 *  Configuramos el osciloscopio , para que  arroje una señal de 20  Vpp a una frecuencia de   2,5 Khz
 
 *  Conectamos las puntas de  nuestro osciloscopio al resistor del circuito propuesto  y observamos las señales senoidales que produce
+
+Asi quedaria la simulacion armada :
+
+![](https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Imagenes/WhatsApp%20Image%202021-02-25%20at%2022.03.44.jpeg)
+
 
 *  Con el analisis realizado en la simulacion contestamos las siguiente  preguntas:
 
