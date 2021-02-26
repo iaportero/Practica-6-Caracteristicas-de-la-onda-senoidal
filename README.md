@@ -133,7 +133,7 @@ Asi quedaria la simulacion armada :
 
 *  Con el analisis realizado en la simulacion contestamos las siguiente  preguntas:
 
-![](https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Imagenes/im%207.png)
+![](https://github.com/iaportero/Practica-6-Caracteristicas-de-la-onda-senoidal/blob/main/Imagenes/im%208.png)
 
 
 6.  Manua de usuario
